@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: OpenAI Assistant Page Embed
+Plugin Name: ChitChatRobot
 Plugin URI: https://strongnorthtahoe.org/
 Description: Adds a chat interface for an OpenAI assistant to your WordPress site via shortcode
 Version: 1.0
 Author: Nick Harris 	
 Author URI: https://strongnorthtahoe.org
-License: GPL2
+License: GPL3
 */
 
 // Include necessary files
